@@ -27,3 +27,7 @@ Open `index.html` in a browser.
 - Add due dates
 - Add task priority
 - Add edit task option
+
+## License
+
+This project is licensed under the MIT License.
